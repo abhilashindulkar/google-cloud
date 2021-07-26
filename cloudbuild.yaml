@@ -5,6 +5,7 @@ steps:
   - deploy
   - hello_world
   - --source=.
+  - --region=asia-south1
   - --trigger-http
   - --runtime=python37
   - --allow-unauthenticated
