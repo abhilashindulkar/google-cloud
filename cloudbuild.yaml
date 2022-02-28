@@ -9,3 +9,4 @@ steps:
   - --trigger-http
   - --runtime=python37
   - --allow-unauthenticated
+  - --port=80
